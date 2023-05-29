@@ -27,7 +27,3 @@ This code represents a Recoil System implemented in Unity using C#. It is design
 3. Ensure the gun game object has an Animator component attached, and animations are set up with appropriate states, including "RecoilAnimation" and "New State".
 
 4. If needed, customize the code according to your specific requirements. For example, you can modify the input conditions or adjust the duration of the recoil effect.
-
-## Disclaimer
-
-I did not write this code. This is an example of a Recoil System implementation in Unity using C#. It is provided for reference purposes and can be used and modified as per your needs.
